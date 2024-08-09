@@ -15,26 +15,12 @@
 
 ## Status
 
-<style>
-    #stats{
-        display: flex;
-        align-items: center;
-    }
-
-    .Redes{
-        display: flex;
-        justify-content: space-around;
-    }
-
-    #grafico1{
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-</style>
 
 <div id="stats">
 
 <div id="grafico1">
+
+
 
 ![Eto12 GitHub stats](https://github-readme-stats.vercel.app/api?username=EtoDoze&show_icons=true&theme=dracula)
 
