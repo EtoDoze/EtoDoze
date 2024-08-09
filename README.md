@@ -2,13 +2,48 @@
 
 
 ### Redes Sociais
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Eto_Doze)
+
+<div class="Redes">
+
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RobertoAug61389?t=7oYoX6hSoQFM2QCga89aFA&s=09)
+
+[![YT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eto1254)
+
+[![Gm](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robertoaugusto12fl@gmail.com)
+
+</div>
 
 ## Status
 
+<style>
+    #stats{
+        display: flex;
+        align-items: center;
+    }
+
+    .Redes{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #grafico1{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+
+<div id="stats">
+
+<div id="grafico1">
+
 ![Eto12 GitHub stats](https://github-readme-stats.vercel.app/api?username=EtoDoze&show_icons=true&theme=dracula)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoDoze&layout=donut-vertical)
+
+</div>
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoDoze&layout=donut-vertical)
+
+</div>
 
 ## Tecnologias que eu uso
 
